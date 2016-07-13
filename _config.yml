@@ -1,14 +1,14 @@
-layout_spectrum: 0.35376933752559125
+layout_spectrum: 0.3584151593968272
 typography_spectrum: 0.4494013781659305
 color:
-  brandStrength: 0.537673101760447
-  lightness: 0.10984738357365131
-  saturation: 0.4326574152801186
-  rhythmicContrast: 0.6683413940481842
+  brandStrength: 0.4525121410842985
+  lightness: 0.6626012844499201
+  saturation: 0.7602367487270385
+  rhythmicContrast: 0.009992689592763782
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: aftermodernlab
