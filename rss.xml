@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[aftermodernlab]]></title>
         <description><![CDATA[aftermodernlab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aftermodernlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 19:35:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 19:45:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aftermodernlab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aftermodern.lab (@aftermodernlab) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>aftermodern.lab (@aftermodernlab) * Instagram photos and videos</h1><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/12445851_1589230608034214_971895281_a.jpg"></article>]]></description>
+            <link>https://www.instagram.com/aftermodernlab/?hl=en</link>
+            <guid isPermaLink="false">ee7e3144-44a8-49d7-a308-24320176ddf5</guid>
+            <pubDate>Wed, 13 Jul 2016 19:45:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aftermodern.lab is an accomplished, award-winning National design studio working in both cultural and commercial contents, across all mediums.]]></title>
             <description><![CDATA[<article><h1>aftermodern.lab is an accomplished, award-winning National design studio working in both cultural and commercial contents, across all mediums.</h1><h2>We practice purposeful visual communication inspired by modernism, purity of form and the uncompromising pursuit for typographic excellence.</h2></article>]]></description>
