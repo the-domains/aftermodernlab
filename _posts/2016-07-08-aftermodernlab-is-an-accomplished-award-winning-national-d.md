@@ -1,10 +1,8 @@
 ---
 description: ''
-dateModified: '2016-07-08T17:12:43.544Z'
-datePublished: '2016-07-13T19:35:22.460Z'
-title: >-
-  aftermodern.lab is an accomplished, award-winning National design studio
-  working in both cultural and commercial contents, across all mediums.
+dateModified: '2016-07-13T19:41:57.345Z'
+datePublished: '2016-07-13T19:47:12.873Z'
+title: What we do
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/987aff02-1c73-44ee-a9db-39757209ab9a.png
@@ -17,6 +15,8 @@ inNav: false
 _type: MediaObject
 
 ---
+# What we do
+
 ## **aftermodern.lab is an accomplished, award-winning National design studio working in both cultural and commercial contents, across all mediums.**
 
 ## **We practice purposeful visual communication inspired by modernism, purity of form and the uncompromising pursuit for typographic excellence.**
